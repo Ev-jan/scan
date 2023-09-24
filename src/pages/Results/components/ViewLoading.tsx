@@ -1,4 +1,4 @@
-import ResultHero from "../../../assets/img/ResultHero.png";
+import ResultHero from "../../../assets/img/resultHero.png";
 import styled from "styled-components";
 import Tagline from "../../../components/Tagline/Tagline";
 import Heading3 from "../../../components/Headings/H3";
